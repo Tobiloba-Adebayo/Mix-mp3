@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+}
+.Head{
+display: flex;
+width: 95%;
+margin: auto;
+}
+h2{
+    color: red;
+    margin-top: 15px;
+}
+em{
+    color:white;
+    font-style: normal;
+}
+input{
+   margin-left: 30px;
+   margin-top: 15px;
+   width: 80vh;
+   border-radius: 15px;
+  outline: none;
+  padding-left: 30px;
+}
+button{
+    background-color: red;
+    border-radius: 30px;
+    width: 12vh;
+    margin-top: 15px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: bold;
+}
+a:hover{
+    color: black;
+}
+ol{
+    padding-left: 180px;
+    margin-top: 15px;
+    display: flex;
+}
+.class{
+    margin: 5px;
+}
+.class:hover{
+  color: red;  
+}
+.move:hover{
+    color: red;
+}

@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+}
+.Head{
+display: flex;
+width: 95%;
+margin: auto;
+}
+h2{
+    color: red;
+    margin-top: 15px;
+}
+em{
+    color:white;
+    font-style: normal;
+}
+input{
+   margin-left: 30px;
+   margin-top: 15px;
+   width: 80vh;
+   border-radius: 15px;
+  outline: none;
+  padding-left: 30px;
+}
+button{
+    background-color: red;
+    border-radius: 30px;
+    width: 12vh;
+    margin-top: 15px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: bold;
+}
+a:hover{
+    color: black;
+}
+ol{
+    padding-left: 180px;
+    margin-top: 15px;
+    display: flex;
+}
+.class{
+    margin: 5px;
+}
+.class:hover{
+  color: red;  
+}
+h3{
+    color: white;
+    margin-left: 70px;
+}
+select{
+    background-color: red;
+    outline: none;
+    width: 10vh;
+    border-radius: 15px;
+    margin-top: 15px;
+    
+}
+.justin{
+    border-radius: 100px;
+    background-color: transparent;
+    margin-left: 70px;
+    margin-top: 5px;
+}
+.btn{
+    margin-left: 680px;
+    width: 20vh;
+}
+.More{
+    font-size: 20px;
+}
+h4{
+    color: white;
+    margin-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.head0{
+    margin-left: 80px;
+    border-radius: 100px;
+
+}
+.al{
+    display: flex;
+}
+.Play{
+    width: 20vh;
+    font-size: bold;
+    background-color: red;
+}
+.nt{
+    width: 20vh;
+    font-size: bold;
+    background-color: transparent;
+    border-color: white;
+}
+.new:hover{
+  color: red;  
+}
+p{
+    color: white;
+    justify-content: center;
+    padding-left: 290px;
+    font-weight: bold;
+}
+.void{
+    justify-content: center;
+    padding-left: 290px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.void:hover{
+    color: red;
+}
+.abt{
+    color: white;
+}
+.abt:hover{
+    color: black;
+}
+.exit{
+    padding-left: 230px;
+    padding-top: 35px;
+}
+.Ads{
+    background-color: rgb(76, 74, 74);
+    width: 95%;
+    margin: auto;
+}
+.but{
+    padding-left: 500px;
+}
